@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=https://bookbrackets.app/schema/brackets.schema.json
 schema_version: "1"
 author: "AI: Claude"
+title: Alma 32 — Thematic Analysis
 book_slug: alma-32
 targets:
   - target_slug: alma-32
