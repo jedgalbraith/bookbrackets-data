@@ -4,7 +4,7 @@
   "title": "Book Content File",
   "description": "Describes the hierarchical structure of a text (volume → book → chapter → verse).",
   "type": "object",
-  "required": ["schema_version", "slug", "type", "title"],
+  "required": ["schema_version", "slug", "type", "title", "author"],
   "additionalProperties": false,
   "properties": {
     "schema_version": {
