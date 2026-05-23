@@ -1,5 +1,6 @@
 # yaml-language-server: $schema=https://bookbrackets.app/schema/brackets.schema.json
 schema_version: "1"
+slug: book-of-mormon-jeds-mission
 curator: "Jed Galbraith"
 book_slug: book-of-mormon
 title: Book of Mormon — Jed's Mission Brackets

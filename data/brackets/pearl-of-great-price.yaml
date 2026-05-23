@@ -1,5 +1,6 @@
 # yaml-language-server: $schema=https://bookbrackets.app/schema/brackets.schema.json
 schema_version: "1"
+slug: pearl-of-great-price
 curator: "AI: Claude"
 title: Pearl of Great Price — Thematic Analysis
 book_slug: pearl-of-great-price

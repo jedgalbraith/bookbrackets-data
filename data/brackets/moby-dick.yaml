@@ -1,5 +1,6 @@
 # yaml-language-server: $schema=https://bookbrackets.app/schema/brackets.schema.json
 schema_version: "1"
+slug: moby-dick
 curator: "AI: Claude"
 title: Moby-Dick — Thematic Analysis
 book_slug: moby-dick

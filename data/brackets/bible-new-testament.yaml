@@ -1,5 +1,6 @@
 # yaml-language-server: $schema=https://bookbrackets.app/schema/brackets.schema.json
 schema_version: "1"
+slug: bible-new-testament
 curator: "AI: Claude"
 title: New Testament — Thematic Analysis
 book_slug: bible-new-testament
