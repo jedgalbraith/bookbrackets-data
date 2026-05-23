@@ -13,7 +13,7 @@ Filename must match the root node's `slug` + `.yaml` — the JS derives the file
 
 ```yaml
 schema_version: "1"
-author: "AI: Claude"        # or human name
+curator: "AI: Claude"        # or human name
 disclaimer: "..."           # copy standard LDS disclaimer from any existing bible file
 root:
   slug: bible-old-testament # must match filename stem exactly

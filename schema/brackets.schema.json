@@ -4,14 +4,14 @@
   "title": "Bracket Overlay File",
   "description": "Defines bracket groupings over a book's leaf nodes (chapters, verses, etc.).",
   "type": "object",
-  "required": ["schema_version", "book_slug", "title", "author", "targets"],
+  "required": ["schema_version", "book_slug", "title", "curator", "targets"],
   "additionalProperties": false,
   "properties": {
     "schema_version": {
       "type": "string",
       "const": "1"
     },
-    "author": {
+    "curator": {
       "type": "string"
     },
     "title": {

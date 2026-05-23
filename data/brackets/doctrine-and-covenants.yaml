@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://bookbrackets.app/schema/brackets.schema.json
 schema_version: "1"
-author: "AI: Claude"
+curator: "AI: Claude"
 title: Doctrine and Covenants — Thematic Analysis
 book_slug: doctrine-and-covenants
 targets:

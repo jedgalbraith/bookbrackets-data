@@ -6,7 +6,7 @@ Files in this directory are human-authored YAML describing bracket groupings ove
 
 ```yaml
 schema_version: "1"
-author: "AI: Claude"              # or human name
+curator: "AI: Claude"              # or human name
 title: "Old Testament — Thematic Analysis"
 book_slug: bible-old-testament    # must match the root slug of the book file (= filename stem)
 targets:
