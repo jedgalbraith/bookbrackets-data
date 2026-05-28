@@ -1,0 +1,242 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jedgalbraith/bookbrackets-data/main/schema/book.schema.json
+
+schema_version: "1"
+slug: book-of-mormon-jacob-5
+type: chapter
+title: "Jacob 5"
+curator: "Jed Galbraith"
+description: "Zenos's allegory of the tame and wild olive trees, depicting the scattering and gathering of Israel."
+url_template: "https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/5?id=p{index}#p{index}"
+
+children:
+  - slug: v1
+    type: verse
+    description: "Hearken, O ye house of Israel, hear the words of the prophet Zenos."
+  - slug: v2
+    type: verse
+    description: "The Lord likens Israel to a tame olive tree planted in a vineyard."
+  - slug: v3
+    type: verse
+    description: "The tame olive tree waxed old and began to decay."
+  - slug: v4
+    type: verse
+    description: "The master of the vineyard resolves to prune, dig, and nourish it."
+  - slug: v5
+    type: verse
+    description: "He prunes, digs, and nourishes it, and it brings forth young tender branches."
+  - slug: v6
+    type: verse
+    description: "After many days the main top begins to perish."
+  - slug: v7
+    type: verse
+    description: "The master calls his servant to graft in branches from a wild olive tree."
+  - slug: v8
+    type: verse
+    description: "He plans to take young branches and graft them elsewhere."
+  - slug: v9
+    type: verse
+    description: "He commands the main branches be plucked and burned."
+  - slug: v10
+    type: verse
+    description: "The servant does as the master commanded."
+  - slug: v11
+    type: verse
+    description: "The master hopes to preserve the roots of the tree."
+  - slug: v12
+    type: verse
+    description: "He instructs the servant to nourish the tree."
+  - slug: v13
+    type: verse
+    description: "Natural branches are taken and hid in nethermost parts of the vineyard."
+  - slug: v14
+    type: verse
+    description: "The master and servant go and hide the natural branches."
+  - slug: v15
+    type: verse
+    description: "After a long time, the master returns to the vineyard."
+  - slug: v16
+    type: verse
+    description: "The master and servant go to the original tree."
+  - slug: v17
+    type: verse
+    description: "The wild branches grafted in have brought forth tame fruit."
+  - slug: v18
+    type: verse
+    description: "The roots have nourished the grafted branches to produce good fruit."
+  - slug: v19
+    type: verse
+    description: "They visit the nethermost part of the vineyard to check the hidden branches."
+  - slug: v20
+    type: verse
+    description: "The first hidden branch has brought forth much good fruit."
+  - slug: v21
+    type: verse
+    description: "The servant marvels it grew in a poor spot of ground."
+  - slug: v22
+    type: verse
+    description: "The master replies he knew it was a good spot of ground."
+  - slug: v23
+    type: verse
+    description: "The second branch also brought forth much good fruit."
+  - slug: v24
+    type: verse
+    description: "They visit another branch which also brought forth good fruit."
+  - slug: v25
+    type: verse
+    description: "The last branch was planted in good ground but yielded mixed fruit."
+  - slug: v26
+    type: verse
+    description: "The master commands the bad fruit branches be cast into the fire."
+  - slug: v27
+    type: verse
+    description: "The servant pleads to spare it a little longer."
+  - slug: v28
+    type: verse
+    description: "The master agrees and they nourish all the trees of the vineyard."
+  - slug: v29
+    type: verse
+    description: "After a long time, the master calls the servant again."
+  - slug: v30
+    type: verse
+    description: "They return to the original tree which bears all kinds of fruit."
+  - slug: v31
+    type: verse
+    description: "The master tastes the fruit and finds none of it good."
+  - slug: v32
+    type: verse
+    description: "He laments that all the fruit of the vineyard has become corrupted."
+  - slug: v33
+    type: verse
+    description: "He wonders what more could have been done for his vineyard."
+  - slug: v34
+    type: verse
+    description: "The servant notes the roots are still good."
+  - slug: v35
+    type: verse
+    description: "But the branches have overcome the roots and bring forth evil fruit."
+  - slug: v36
+    type: verse
+    description: "The master grieves over losing the trees of his vineyard."
+  - slug: v37
+    type: verse
+    description: "Evil fruit has overcome the good and the tree is no profit."
+  - slug: v38
+    type: verse
+    description: "They go to inspect the branches planted elsewhere."
+  - slug: v39
+    type: verse
+    description: "All the trees of the vineyard have become corrupted."
+  - slug: v40
+    type: verse
+    description: "The wild fruit of the last has overcome the good part."
+  - slug: v41
+    type: verse
+    description: "The master weeps, asking what more he could have done."
+  - slug: v42
+    type: verse
+    description: "All the trees of his vineyard are good for nothing but to be hewn down."
+  - slug: v43
+    type: verse
+    description: "He had planted the last in a choice piece of ground above all others."
+  - slug: v44
+    type: verse
+    description: "He had cleared away a tree that cumbered that spot of ground."
+  - slug: v45
+    type: verse
+    description: "Part of the tree brought forth good fruit, part wild."
+  - slug: v46
+    type: verse
+    description: "Now all the trees are corrupted and fit only to be cast into the fire."
+  - slug: v47
+    type: verse
+    description: "The master asks what more he could have done for his vineyard."
+  - slug: v48
+    type: verse
+    description: "The servant suggests the loftiness of the branches overcame the roots."
+  - slug: v49
+    type: verse
+    description: "The master resolves to hew down the trees and cast them into the fire."
+  - slug: v50
+    type: verse
+    description: "The servant pleads to spare it yet a little longer."
+  - slug: v51
+    type: verse
+    description: "The master agrees to spare it a little longer."
+  - slug: v52
+    type: verse
+    description: "He resolves to take branches from the natural tree and graft them back."
+  - slug: v53
+    type: verse
+    description: "He will graft natural branches back to preserve the roots."
+  - slug: v54
+    type: verse
+    description: "He will take branches from the mother tree and graft them in."
+  - slug: v55
+    type: verse
+    description: "He takes from the natural tree and grafts them into the original."
+  - slug: v56
+    type: verse
+    description: "He takes the natural branches that became wild and grafts them back."
+  - slug: v57
+    type: verse
+    description: "He instructs to keep the good branches and pluck the bitter ones."
+  - slug: v58
+    type: verse
+    description: "They will prune and dig and nourish them once again."
+  - slug: v59
+    type: verse
+    description: "All these will be grafted that the good may overcome the bad."
+  - slug: v60
+    type: verse
+    description: "By preserving the roots and grafting, the natural fruit may return."
+  - slug: v61
+    type: verse
+    description: "The master calls for servants to labor with him in the vineyard."
+  - slug: v62
+    type: verse
+    description: "They labor with their might for the last time before the end."
+  - slug: v63
+    type: verse
+    description: "They graft in the branches: the last shall be first, the first last."
+  - slug: v64
+    type: verse
+    description: "They dig and prune and dung the trees once more."
+  - slug: v65
+    type: verse
+    description: "As they grow the bad branches are cleared away gradually."
+  - slug: v66
+    type: verse
+    description: "Good and bad must not be cleared all at once lest roots be too strong."
+  - slug: v67
+    type: verse
+    description: "Natural branches are grafted back into the natural tree."
+  - slug: v68
+    type: verse
+    description: "Natural branches will bring forth natural fruit again."
+  - slug: v69
+    type: verse
+    description: "The bad shall be cast away as the good comes forth."
+  - slug: v70
+    type: verse
+    description: "The master sends his servants, few in number, to labor in the vineyard."
+  - slug: v71
+    type: verse
+    description: "He calls them to labor with their might for the last time."
+  - slug: v72
+    type: verse
+    description: "The servants labor diligently and the master labors with them."
+  - slug: v73
+    type: verse
+    description: "Bad branches are cast away as good fruit returns to the vineyard."
+  - slug: v74
+    type: verse
+    description: "The trees become like one body, the fruits equal, natural fruit returned."
+  - slug: v75
+    type: verse
+    description: "The master rejoices that he has preserved the natural fruit."
+  - slug: v76
+    type: verse
+    description: "He will lay up fruit unto himself against the season which speedily comes."
+  - slug: v77
+    type: verse
+    description: "When evil fruit returns at last, the vineyard will be burned with fire."

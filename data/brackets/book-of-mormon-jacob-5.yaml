@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jedgalbraith/bookbrackets-data/main/schema/brackets.schema.json
+
+schema_version: "1"
+slug: jacob-5-brackets
+curator: "Jed Galbraith"
+title: "Jacob 5: The Allegory of the Olive Tree"
+book_slug: jacob-5
+
+targets:
+  - target_slug: jacob-5
+    default_left: visits
+    default_right: dispensations
+    topics:
+      - slug: visits
+        title: Master's Visits to the Vineyard
+        description: "The allegory is structured around the master of the vineyard's successive visits."
+        brackets:
+          - range: "1-14"
+            label: Setup & first labor
+          - range: "15-28"
+            label: Second visit — branches checked
+          - range: "29-49"
+            label: Third visit — corruption found
+          - range: "50-77"
+            label: Final visit — last labor
+      - slug: dispensations
+        title: Dispensations of Israel
+        description: "Mapping the allegory to the scattering and gathering of Israel."
+        brackets:
+          - range: "1-6"
+            label: House of Israel decays
+          - range: "7-14"
+            label: Scattering & grafting of Gentiles
+          - range: "15-28"
+            label: Apostolic era — good fruit
+          - range: "29-49"
+            label: Great Apostasy
+          - range: "50-74"
+            label: Restoration & gathering
+          - range: "75-77"
+            label: Millennium & final burning
+      - slug: characters
+        title: Characters
+        description: "Who acts in each section of the allegory."
+        brackets:
+          - range: "3-4"
+            label: Master alone
+          - range: "7-14"
+            label: Master & servant labor together
+          - range: "15-49"
+            label: Master & servant inspect together
+          - range: "50-60"
+            label: Servant pleads, master relents
+          - range: "61-77"
+            label: Master, servant, & other servants

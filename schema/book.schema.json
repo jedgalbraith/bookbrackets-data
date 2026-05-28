@@ -27,6 +27,11 @@
       "type": "string",
       "minLength": 1
     },
+    "bookbrackets_username": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9\\-]*[a-z0-9]$",
+      "description": "BookBrackets account username. Required when hosting on BookBrackets; auto-populated by the editor."
+    },
     "disclaimer": {
       "type": "string"
     },
