@@ -4,7 +4,7 @@ schema_version: "1"
 slug: jacob-5-brackets
 curator: "Jed Galbraith"
 title: "Jacob 5: The Allegory of the Olive Tree"
-book_slug: jacob-5
+book_slug: book-of-mormon-jacob-5
 
 targets:
   - target_slug: jacob-5
