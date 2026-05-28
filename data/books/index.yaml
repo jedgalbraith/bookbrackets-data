@@ -46,6 +46,15 @@ books:
       - file: pearl-of-great-price.yaml
         title: Thematic Analysis
         default_target: pgp-overview
+  - slug: book-of-mormon-jacob-5
+    title: Jacob 5
+    description: >
+      Verse-by-verse: Zenos's allegory of the tame and wild olive trees,
+      depicting the scattering and gathering of Israel through the master
+      of the vineyard's successive visits.
+    brackets:
+      - file: book-of-mormon-jacob-5.yaml
+        title: The Allegory of the Olive Tree
   - slug: alma-32
     title: Alma 32
     description: >
