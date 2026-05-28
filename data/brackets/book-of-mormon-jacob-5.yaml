@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/jedgalbraith/bookbrackets-data/main/schema/brackets.schema.json
 
 schema_version: "1"
-slug: jacob-5-brackets
+slug: book-of-mormon-jacob-5
 curator: "Jed Galbraith"
 title: "Jacob 5: The Allegory of the Olive Tree"
 book_slug: book-of-mormon-jacob-5
@@ -53,3 +53,39 @@ targets:
             label: Servant pleads, master relents
           - range: "61-77"
             label: Master, servant, & other servants
+      - slug: fruit-quality
+        title: Fruit Quality Arc
+        description: "Tracks whether the fruit is good, mixed, or corrupt — shows the chapter's rise-fall-rise shape."
+        brackets:
+          - range: "1-6"
+            label: Decaying — no good fruit yet
+          - range: "7-14"
+            label: Hope — grafting underway
+          - range: "15-28"
+            label: Good fruit throughout vineyard
+          - range: "29-49"
+            label: Corrupt — all fruit turned bad
+          - range: "50-74"
+            label: Restored — good fruit returns
+          - range: "75-77"
+            label: Final corruption & burning
+      - slug: master-emotion
+        title: Grief & Joy of the Master
+        description: "The emotional beats of the Lord's investment: hope, lament, weeping, and rejoicing."
+        brackets:
+          - range: "4-14"
+            label: Hope — he labors to save the tree
+          - range: "15-28"
+            label: Joy — good fruit found everywhere
+          - range: "29-37"
+            label: Lament — what more could I have done?
+          - range: "38-49"
+            label: Weeping — all is corrupted
+          - range: "50-60"
+            label: Relenting — servant's plea moves him
+          - range: "61-74"
+            label: Determined — labors one last time
+          - range: "75-76"
+            label: Rejoicing — natural fruit preserved
+          - range: "77"
+            label: Resigned — final burning comes
