@@ -7,7 +7,7 @@ title: "Jacob 5: The Allegory of the Olive Tree"
 book_slug: book-of-mormon-jacob-5
 
 targets:
-  - target_slug: jacob-5
+  - target_slug: book-of-mormon-jacob-5
     default_left: visits
     default_right: dispensations
     topics:
