@@ -1,0 +1,186 @@
+schema_version: "1"
+slug: liahona-2022-oct-nelson-the-everlasting-covenant
+type: article
+title: "Liahona 2022 October Russell M. Nelson The Everlasting Covenant"
+curator: "Jed Galbraith"
+description: "President Russell M. Nelson's October 2022 Liahona article about covenantal love and the covenant path with God."
+url_template: "https://www.churchofjesuschrist.org/study/liahona/2022/10/04-the-everlasting-covenant?lang=eng#p{index}"
+
+children:
+  - slug: para-1
+    type: paragraph
+    description: "The need for truth, light, and the pure love of Christ in a troubled world."
+  - slug: para-2
+    type: paragraph
+    description: "The Abrahamic covenant; baptism as the gate to Abraham's promises."
+  - slug: para-3
+    type: paragraph
+    description: "The new and everlasting covenant and the Abrahamic covenant are essentially the same."
+  - slug: para-4
+    type: paragraph
+    description: "The everlasting covenant existed before the foundation of the world."
+  - slug: para-5
+    type: paragraph
+    description: "Scripture: thou art after the order of him without beginning of days."
+  - slug: para-6
+    type: paragraph
+    description: "Scripture: behold, thou art one in me, a son of God."
+  - slug: para-7
+    type: paragraph
+    description: "Adam and Eve accepted baptism and entered the covenant path."
+  - slug: para-8
+    type: paragraph
+    description: "The covenant path leads back to God and creates everlasting ties."
+  - slug: para-9
+    type: paragraph
+    description: "Covenant makers leave neutral ground; God grants special hesed love and mercy."
+  - slug: para-10
+    type: paragraph
+    description: "Hesed has no English equivalent; describes mutual loyalty in a covenant relationship."
+  - slug: para-11
+    type: paragraph
+    description: "Celestial marriage as an example of a hesed covenant relationship."
+  - slug: para-12
+    type: paragraph
+    description: "Hesed is the special love and mercy God extends to those in covenant with Him."
+  - slug: para-13
+    type: paragraph
+    description: "Because of hesed, God forgives, works with, and helps the straying find their way."
+  - slug: para-14
+    type: paragraph
+    description: "God will never tire in helping covenant keepers; each person has a place in His heart."
+  - slug: para-15
+    type: paragraph
+    description: "The Lord told Joseph Smith the Abrahamic promise belongs to him also."
+  - slug: para-16
+    type: paragraph
+    description: "The everlasting covenant was restored; temple marriage ties to the Abrahamic covenant."
+  - slug: para-17
+    type: paragraph
+    description: "Baptism and temple ordinances confer the blessings of the Abrahamic covenant."
+  - slug: para-18
+    type: paragraph
+    description: "Malachi and Moroni's prophecy of Elijah turning hearts to the fathers."
+  - slug: para-19
+    type: paragraph
+    description: "Christ's Atonement enables the Father's covenant promises; Christ is at its center."
+  - slug: para-20
+    type: paragraph
+    description: "Sarai, Abram, and Hagar; Ishmael born but not the covenant heir."
+  - slug: para-21
+    type: paragraph
+    description: "Sarai conceived by faith; Isaac born in the covenant."
+  - slug: para-22
+    type: paragraph
+    description: "New names Sarah and Abraham marked a new life and destiny."
+  - slug: para-23
+    type: paragraph
+    description: "The everlasting covenant established through Isaac, not Ishmael."
+  - slug: para-24
+    type: paragraph
+    description: "All who accept the gospel become part of the lineage of Abraham."
+  - slug: para-25
+    type: paragraph
+    description: "Scripture: as many as are baptized into Christ have put on Christ."
+  - slug: para-26
+    type: paragraph
+    description: "Scripture: ye are all one in Christ Jesus."
+  - slug: para-27
+    type: paragraph
+    description: "Scripture: if ye be Christ's, then are ye Abraham's seed and heirs."
+  - slug: para-28
+    type: paragraph
+    description: "We can become heirs to the covenant by birth or by adoption."
+  - slug: para-29
+    type: paragraph
+    description: "Jacob born in the covenant; his name changed to Israel meaning let God prevail."
+  - slug: para-30
+    type: paragraph
+    description: "God remembered His covenant with Abraham, Isaac, and Jacob in Exodus."
+  - slug: para-31
+    type: paragraph
+    description: "Peculiar treasure translated from Hebrew segullah meaning a valued possession."
+  - slug: para-32
+    type: paragraph
+    description: "Peter taught about Jesus using the names of Abraham, Isaac, and Jacob."
+  - slug: para-33
+    type: paragraph
+    description: "Peter declared Christ's mission was to fulfill God's covenant with Abraham."
+  - slug: para-34
+    type: paragraph
+    description: "The resurrected Christ gave a similar sermon to the people of ancient America."
+  - slug: para-35
+    type: paragraph
+    description: "Scripture: ye are children of the covenant which the Father made with Abraham."
+  - slug: para-36
+    type: paragraph
+    description: "Scripture: Christ sent to bless by turning away iniquities as children of the covenant."
+  - slug: para-37
+    type: paragraph
+    description: "Covenant keepers become sin-resistant souls with strength to resist the world."
+  - slug: para-38
+    type: paragraph
+    description: "The Lord commands us to spread the gospel and share the covenant via missionaries."
+  - slug: para-39
+    type: paragraph
+    description: "Missionary work is essential to the gathering of Israel, the greatest work on earth."
+  - slug: para-40
+    type: paragraph
+    description: "The covenant path is open to all, on both sides of the veil."
+  - slug: para-41
+    type: paragraph
+    description: "The Melchizedek Priesthood gives covenant keepers access to all spiritual blessings."
+  - slug: para-42
+    type: paragraph
+    description: "Elijah and Elias appeared in Kirtland to restore Abrahamic covenant authority."
+  - slug: para-43
+    type: paragraph
+    description: "We travel the covenant path individually and collectively, bound vertically to God."
+  - slug: para-44
+    type: paragraph
+    description: "God loves those who have Him as their God; hesed available to all for generations."
+  - slug: para-45
+    type: paragraph
+    description: "Making a covenant changes our relationship with God and promises us His treasure."
+  - slug: para-46
+    type: paragraph
+    description: "Covenant keepers are promised eternal life; Christ is the guarantor of the covenants."
+  - slug: para-47
+    type: paragraph
+    description: "Patriarchal blessings reveal our connection to the ancient patriarchs."
+  - slug: para-48
+    type: paragraph
+    description: "Our calling as covenant Israel to share the gospel and support missionaries."
+  - slug: para-49
+    type: paragraph
+    description: "Every covenant keeper has direct access to God's power; bearing His name matters."
+  - slug: para-50
+    type: paragraph
+    description: "Israel was scattered because the people broke commandments and stoned the prophets."
+  - slug: para-51
+    type: paragraph
+    description: "Israel was scattered with a promise that one day they would be gathered again."
+  - slug: para-52
+    type: paragraph
+    description: "The tribe of Judah prepared the world for Christ's first coming through Mary."
+  - slug: para-53
+    type: paragraph
+    description: "The tribe of Joseph leads the gathering of Israel for the Second Coming."
+  - slug: para-54
+    type: paragraph
+    description: "God's hesed relationship means He wants to gather all His children on both sides."
+  - slug: para-55
+    type: paragraph
+    description: "The covenant path is a path of love; hesed brings the greatest joy."
+  - slug: para-56
+    type: paragraph
+    description: "Loving God above all else brings true peace, comfort, confidence, and joy."
+  - slug: para-57
+    type: paragraph
+    description: "The covenant path is about our hesed relationship with God who always keeps His word."
+  - slug: para-58
+    type: paragraph
+    description: "The Book of Mormon begins and ends with reference to the everlasting covenant."
+  - slug: para-59
+    type: paragraph
+    description: "We are called at this pivotal time to teach the world about the everlasting covenant."

@@ -1,0 +1,62 @@
+schema_version: "1"
+slug: liahona-2022-oct-nelson-the-everlasting-covenant
+book_slug: liahona-2022-oct-nelson-the-everlasting-covenant
+title: "Liahona 2022 October Russell M. Nelson The Everlasting Covenant"
+curator: "Jed Galbraith"
+
+targets:
+  - target_slug: everlasting-covenant-nelson
+    topics:
+      - slug: sections
+        title: Sections
+        brackets:
+          - range: "1-8"
+            label: Introduction
+          - range: "9-18"
+            label: A Special Love and Mercy
+          - range: "19-37"
+            label: "Jesus Christ: The Center of the Covenant"
+          - range: "38-45"
+            label: "Missionary Work: Sharing the Covenant"
+          - range: "46-54"
+            label: Promises and Privileges
+          - range: "55-59"
+            label: A Path of Love
+
+      - slug: key-concepts
+        title: Key Concepts
+        brackets:
+          - range: "2-4"
+            label: Abrahamic and Everlasting Covenants
+          - range: "9-14"
+            label: Hesed (Covenantal Love and Mercy)
+          - range: "7-8"
+            label: The Covenant Path
+          - range: "38-40"
+            label: Gathering of Israel
+
+      - slug: historical-scriptural-references
+        title: "Historical/Scriptural References"
+        brackets:
+          - range: "2"
+            label: Abrahamic Covenant
+          - range: "4-6"
+            label: The Fall and the Promised Savior
+          - range: "7"
+            label: Adam and Eve
+          - range: "15-16"
+            label: Joseph Smith and the Restoration
+          - range: "20-23"
+            label: Sarah, Abraham, Isaac, and Ishmael
+          - range: "29"
+            label: Jacob and Israel
+          - range: "30-31"
+            label: Exodus and God's Covenant with Israel
+          - range: "32-33"
+            label: Peter's Testimony of the Covenant
+          - range: "35-36"
+            label: Christ's Covenant Teaching in America
+          - range: "50-53"
+            label: Scattering and Gathering of Israel
+          - range: "58"
+            label: Book of Mormon References
