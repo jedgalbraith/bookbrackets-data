@@ -64,6 +64,14 @@ books:
     brackets:
       - file: alma-32.yaml
         title: Thematic Analysis
+  - slug: liahona-2022-oct-nelson-the-everlasting-covenant
+    title: "The Everlasting Covenant"
+    description: >
+      Paragraph-by-paragraph: President Russell M. Nelson's October 2022 Liahona
+      talk on hesed, the Abrahamic covenant, and the covenant path.
+    brackets:
+      - file: liahona-2022-oct-nelson-the-everlasting-covenant.yaml
+        title: Thematic Analysis
   - slug: moby-dick
     title: "Moby-Dick; or, The Whale"
     description: >
